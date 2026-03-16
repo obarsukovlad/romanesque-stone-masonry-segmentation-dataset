@@ -1,0 +1,4 @@
+To downloads images do to https://doi.org/10.5281/zenodo.15166485
+
+Download archives - https://zenodo.org/records/15166485/files/Mavic2Pro.7z?download=1
+And https://zenodo.org/records/15166485/files/Nikon%20ZF6II.7z?download=1
